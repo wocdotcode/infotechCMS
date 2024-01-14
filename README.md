@@ -14,20 +14,29 @@ A simple Content Management application example project made with Spring Boot fo
  - EmployeeTypes                                - Invoice
  - EmployeeStatus                               - InvoiceStatus
 
-
-### Cloud Infrastructure                   ### Payroll
- - CloudInfrastructures                         - Payroll
- - CloudInfrastructureModels                    - PayLevels
- - CloudInfrastructureMakes                     - PaySlips
+### Cloud Infrastructure                   
+ - CloudInfrastructures                       
+ - CloudInfrastructureModels                    
+ - CloudInfrastructureMakes                     -
  - CloudInfrastructureStatus               
  - CloudInfrastructureTypes
- - CloudInfrastructureHires                ### Parameter/Settings
- - CloudInfrastructureDevelopment               - Modules
- - CloudInfrastructureMaintenance               - Countries         
-                                                - States
-                                                - Locations
-                                                - Contacts
-                                                - Suppliers/Clients
+ - CloudInfrastructureHires                
+ - CloudInfrastructureDevelopment               
+ - CloudInfrastructureMaintenance                   
+
+### Payroll                                              
+ - Payroll                                           
+ - PayLevels                                             
+ - PaySlips                                             
+
+### Parameter/Settings
+ - Modules
+ - Countries
+ - States
+ - Locations
+ - Contacts
+ - Suppliers/Clients
+
 ### Helpdesk
  - Ticket
  - TicketStatus
